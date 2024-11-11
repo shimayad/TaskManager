@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "TaskManager.Controllers.TaskManagerController",
+    "Method": "GetTasksAsync",
+    "RelativePath": "TaskManager/api/tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.TaskManagerController",
+    "Method": "CreateTaskAsync",
+    "RelativePath": "TaskManager/api/tasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskDto",
+        "Type": "TaskManager.Dto.CreateTaskItemDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.TaskManagerController",
+    "Method": "UpdateTaskAsync",
+    "RelativePath": "TaskManager/api/tasks",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskDto",
+        "Type": "TaskManager.Dto.TaskItemDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.TaskManagerController",
+    "Method": "GetTasksAsync",
+    "RelativePath": "TaskManager/api/tasks/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManager.Controllers.TaskManagerController",
+    "Method": "DeleteTaskAsync",
+    "RelativePath": "TaskManager/api/tasks/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

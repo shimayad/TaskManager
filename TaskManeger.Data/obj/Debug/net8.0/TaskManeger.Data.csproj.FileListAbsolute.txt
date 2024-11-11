@@ -1,0 +1,14 @@
+D:\TaskManager\TaskManeger.Data\bin\Debug\net8.0\TaskManeger.Data.deps.json
+D:\TaskManager\TaskManeger.Data\bin\Debug\net8.0\TaskManeger.Data.runtimeconfig.json
+D:\TaskManager\TaskManeger.Data\bin\Debug\net8.0\TaskManeger.Data.dll
+D:\TaskManager\TaskManeger.Data\bin\Debug\net8.0\TaskManeger.Data.pdb
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\TaskManeger.Data.csproj.AssemblyReference.cache
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\TaskManeger.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\TaskManeger.Data.AssemblyInfoInputs.cache
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\TaskManeger.Data.AssemblyInfo.cs
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\TaskManeger.Data.csproj.CoreCompileInputs.cache
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\TaskManeger.Data.dll
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\refint\TaskManeger.Data.dll
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\TaskManeger.Data.pdb
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\TaskManeger.Data.genruntimeconfig.cache
+D:\TaskManager\TaskManeger.Data\obj\Debug\net8.0\ref\TaskManeger.Data.dll
